@@ -194,10 +194,6 @@ This project demonstrates:
 
 ---
 
-## 📝 Author & Purpose
-
-- **Author**: Zayhn
-- **Project**: Seikatsu – Personal Development Application
-- **Purpose**: Academic and portfolio demonstration of ETL fundamentals
+## 📝 Note
 
 This repository is intentionally minimal to highlight core ETL concepts in a clean, understandable, and reviewer-friendly manner.
