@@ -1,0 +1,52 @@
+[
+  {
+    "user_id": 1,
+    "timestamp": "2024-12-01T08:30:00+00:00",
+    "date": "2024-12-01",
+    "text_original": "Started my morning with meditation. Feeling focused and ready for the day.",
+    "text_normalized": "started my morning with meditation. feeling focused and ready for the day.",
+    "word_count": 12,
+    "mood": "positive",
+    "category": "Spirituality"
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2024-12-02T22:15:00+00:00",
+    "date": "2024-12-02",
+    "text_original": "Completed 3 tasks today! Making progress on the project.",
+    "text_normalized": "completed 3 tasks today! making progress on the project.",
+    "word_count": 9,
+    "mood": "accomplished",
+    "category": "Career"
+  },
+  {
+    "user_id": 2,
+    "timestamp": "2024-12-03T19:00:00+00:00",
+    "date": "2024-12-03",
+    "text_original": "Had a great workout session. Pushed myself harder than usual.",
+    "text_normalized": "had a great workout session. pushed myself harder than usual.",
+    "word_count": 10,
+    "mood": "energized",
+    "category": "Strength"
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2024-12-04T07:45:00+00:00",
+    "date": "2024-12-04",
+    "text_original": "Read two chapters of 'Atomic Habits'. The concepts really resonate with me.",
+    "text_normalized": "read two chapters of 'atomic habits'. the concepts really resonate with me.",
+    "word_count": 12,
+    "mood": "inspired",
+    "category": "Learning"
+  },
+  {
+    "user_id": 3,
+    "timestamp": "2024-12-05T21:30:00+00:00",
+    "date": "2024-12-05",
+    "text_original": "Dinner with family was wonderful. Quality time is so important.",
+    "text_normalized": "dinner with family was wonderful. quality time is so important.",
+    "word_count": 10,
+    "mood": "grateful",
+    "category": "Relationships"
+  }
+]

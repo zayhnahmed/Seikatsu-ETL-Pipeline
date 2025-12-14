@@ -1,0 +1,10 @@
+# Seikatsu ETL Pipeline Dependencies
+# Python 3.8+ required
+
+# Core dependencies (using only standard library)
+# No external packages required for this minimal ETL demo
+
+# Future enhancements could include:
+# pandas>=2.0.0  # For advanced data transformation
+# psycopg2-binary>=2.9.0  # For PostgreSQL integration
+# python-dotenv>=1.0.0  # For environment configuration
