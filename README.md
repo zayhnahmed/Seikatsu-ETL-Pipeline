@@ -1,4 +1,4 @@
-🌱 # Seikatsu ETL Pipeline
+# 🌱 Seikatsu ETL Pipeline
 
 A minimal and modular **Extract–Transform–Load (ETL) pipeline** designed to preprocess journal data for analytics and AI-driven insights in the **Seikatsu** personal development application.
 
