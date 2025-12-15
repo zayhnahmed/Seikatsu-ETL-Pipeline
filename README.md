@@ -161,7 +161,7 @@ Category Distribution:
 
 ---
 
-## 🎯 Use Case in Seikatsu
+## 🎯 Use Case
 
 This ETL pipeline serves as the data preprocessing layer for:
 
@@ -170,27 +170,6 @@ This ETL pipeline serves as the data preprocessing layer for:
 - AI-powered insights and recommendations
 - Data consistency and quality enforcement
 - Future retrieval-augmented (RAG-ready) systems
-
----
-
-## 🚀 Future Enhancements
-
-- PostgreSQL integration for persistent storage
-- pgvector support for semantic search
-- Batch processing for large-scale data
-- Data validation using Pydantic
-- Workflow orchestration with Airflow or Prefect
-
----
-
-## 🎓 Academic Context
-
-This project demonstrates:
-
-- Clear separation of ETL concerns
-- Real-world data engineering practices
-- Scalable and extensible pipeline design
-- Readiness for AI and analytics workloads
 
 ---
 
